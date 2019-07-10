@@ -1,0 +1,4 @@
+Gegeven netwerk 51.209.176.0/24, geef het 16e subnet waarin je minstens 4 hosts uniek kan adresseren.
+Gegeven netwerk 135.67.184.0/26, bereken het netmask.
+Gegeven een subnet 234.224.0.0/11, bereken de volgende adressen.NETWERKADRES;EERST BRUIKBARE ADRES;LAATST BRUIKBARE ADRES;BROADCAST-ADRES 
+Gegeven netwerk 27.192.0.0/12, bereken het maximaal aantal hosts dat een uniek IP-adres binnen dit netwerk kunnen krijgen.
